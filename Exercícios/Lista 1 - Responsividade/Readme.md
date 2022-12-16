@@ -1,8 +1,8 @@
 # Exercícios: Responsividade
 
 1- Com base no layout abaixo, crie uma página trabalhando a responsividade para tablet e
-smartphone:
-**DESKTOP**
+smartphone:<br>
+**DESKTOP**<br>
 **main:** 900px;
 **Fonte:** Roboto 14px;
 **Inputs:** 320px;
@@ -11,7 +11,7 @@ smartphone:
 
 ![Untitled](img/Untitled.png)
 
-**TABLET**
+**TABLET**<br>
 **main:** 650px;
 **Fonte:** Roboto 14px;
 **Inputs:** 320px;
@@ -19,7 +19,7 @@ smartphone:
 
 ![Untitled](img/Untitled1.png)
 
-**SMARTPHONE**
+**SMARTPHONE**<br>
 **main:** 320px;
 **Fonte:** Roboto 14px;
 **Inputs:** 320px;
